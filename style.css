@@ -1,0 +1,41 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 2px solid black;
+  background-color: rgb(98, 123, 163);
+}
+
+h2 {
+  color: whitesmoke;
+  font-family: 'Trebuchet MS';
+}
+
+h3 {
+  color: rgb(26, 26, 48) ;
+  font-family: 'Trebuchet MS';
+}
+
+input {
+  padding: 12px 45px 16px;
+  text-align: center;
+  text-transform: inherit;
+  font-size: 16px;
+  font-family: 'Trebuchet MS';
+}
+
+button {
+  padding: 12px 20px;
+  border-radius: 12px;
+  font-weight: bold;
+  font-family: 'Trebuchet MS';
+  font-size: 16px;
+  text-align: center;
+  color: rgb(26, 26, 48);
+  background-color: tomato;
+}
